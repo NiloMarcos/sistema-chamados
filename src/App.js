@@ -1,9 +1,10 @@
 
+import firebase from "./services/firebaseConnection";
 
 function App() {
   return (
     <div className="App">
-      
+      <p>Teste</p>
     </div>
   );
 }
