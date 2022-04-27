@@ -51,6 +51,10 @@ form h1 {
   background-color: #c4c4c4;
 }
 
+.login input:focus {
+  border: 1px solid #000;
+}
+
 form button {
   height: 40px;
   border: 0;
